@@ -7,13 +7,14 @@ Hello! My name is Adesh Yadav, and I am passionate about cybersecurity. I specia
 ## Skills
 - **Technical Skills:** 
   - Tools: Wireshark, Metasploit, Nessus, Burp Suite
-  - Languages: Python, HTML, CSS, JavaScript, Java, C++ 
+  - Languages: Python, HTML, CSS, JavaScript, Java, C++, SQL, etc. 
 
 ## Projects
 ### 1. Network Traffic Analyzer
-- **Overview:** Brief description of the project.
-- **Tools Used:** List of tools.
-- **Challenges Overcome:** Briefly describe what challenges you faced.
-
+- **Overview:**
+- Developed this project using Python and Wireshark which monitors and analyzes the traffic of a target system which then gives the list of open ports on the system.
+- **Tools Used:**
+- Python, Wireshark
+- 
 ## Contact
 Connect with me on https://www.linkedin.com/in/adesh-y-1b398b249/ or send me an email at adesh.lpu@gmail.com
