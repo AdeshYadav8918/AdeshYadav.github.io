@@ -1,4 +1,3 @@
-# theme: jekyll-theme-minimal.
 # BlackMafia8918.github.io
 # Adesh Yadav - Cybersecurity Portfolio
 
