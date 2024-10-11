@@ -1,4 +1,3 @@
-# About Me
 Hello! My name is Adesh Yadav, and I am passionate about cybersecurity. I specialize in Ethical Hacking, Vulnerability Assessment. My goal is to contribute to creating a safer digital world.
 
 ## Skills
