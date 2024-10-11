@@ -1,4 +1,3 @@
-# BlackMafia8918.github.io
 # Adesh Yadav - Cybersecurity Portfolio
 
 ## About Me
